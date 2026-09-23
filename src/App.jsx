@@ -128,6 +128,22 @@ function Home() {
           </div>
         </div>
       </section>
+      <footer className="bg-white border-t border-gray-200 mt-10">
+  <div className="max-w-7xl mx-auto px-6 py-8 text-center">
+    <h2 className="text-xl font-bold text-blue-600">
+      HireNest
+    </h2>
+
+    <p className="mt-2 text-gray-600">
+      Simple job and internship discovery for students and freshers.
+    </p>
+
+    <p className="mt-4 text-sm text-gray-500">
+      © 2026 HireNest. All rights reserved.
+    </p>
+  </div>
+</footer>
+
     </div>
   );
 }
